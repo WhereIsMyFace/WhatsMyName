@@ -1,9 +1,14 @@
 Sebastian macht Frontend
 
+Trello Board für aufgaben Verwaltung erstellung
 Webtechnologien nutzen
 	- Responsiv
 	- TypeScript
 	- NodeJs
+Als Datenstruktur Json verwenden, mit Verlinkungen um Dopplungen zu vermeiden
+	- Angelehnt an NoSQL
+	- Generator von Chummer-XML zu unserem JSON
+	- JSON-Struktur muss noch überlegt werden
 Seitenmenü mit den Charaktereigenschaften und Ausrüstung (einklappbar)
 	- Charackter Infos
 	- Ausrüstungen
