@@ -1,0 +1,32 @@
+Sebastian macht Frontend
+
+Webtechnologien nutzen
+	- Responsiv
+	- TypeScript
+	- NodeJs
+Seitenmenü mit den Charaktereigenschaften und Ausrüstung (einklappbar)
+	- Charackter Infos
+	- Ausrüstungen
+	- Fertigkeiten
+Jede View einzeln implementieren!!!
+Schrittweise Implementierung der Views
+Pro Topic eine View
+3 Klick-Regel (Jedes Element sollte durch 3 Klicks erreichbar sein)
+Verschiedene Modi
+	- Create
+	- Gameing (Nur Ausrüstung anzeigen, die ich dabei habe)
+	- Publish (Anderen Mitspielern Teile des Chars frei geben)
+	- Planning Mode (Zwischen den Runden, Branchen)
+Ausrüstungspacks
+Munitions-Verwaltung
+Zustandsmonitor
+
+
+
+Zukunft:
+- Views frei platzierbar
+- Boni Errechnung
+- Dynamiscshes Packing
+- Group Play Verknüpfung
+- Lokaler und Netzwerk Modus
+- Charakter auf Server gespeichert
