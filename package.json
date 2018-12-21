@@ -1,0 +1,19 @@
+{
+  "name": "whatsmyname",
+  "version": "0.0.1",
+  "description": "On the one hand it is an fun project on the other hand we wish to have platform independent tool for shadowrun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"actually we have nothing to test :D\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhereIsMyFace/WhatsMyName.git"
+  },
+  "author": "WhereIsMyFace",
+  "license": "Beerware",
+  "bugs": {
+    "url": "https://github.com/WhereIsMyFace/WhatsMyName/issues"
+  },
+  "homepage": "https://github.com/WhereIsMyFace/WhatsMyName#readme"
+}

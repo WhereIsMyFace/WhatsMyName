@@ -1,0 +1,159 @@
+#Unhandled files
+
+./Chummer/customdata/Adapsin Applied as Multiplier, Not Grade/amend_AdapsinMultiplier_bioware.xml
+./Chummer/customdata/Bone Lacing Adds to Body/amend_cyberware.xml
+./Chummer/customdata/College Education Qualities Stack/amend_qualities.xml
+./Chummer/customdata/Cyberlimb Customisation Does Not Incur Grade Costs/amend_cyberware.xml
+./Chummer/customdata/Cyberlimbs Cannot Add Headware/amend_cyberlimbheadware_cyberware.xml
+./Chummer/customdata/Delnar Skills Remake/amend_armor.xml
+./Chummer/customdata/Delnar Skills Remake/amend_bioware.xml
+./Chummer/customdata/Delnar Skills Remake/amend_critterpowers.xml
+./Chummer/customdata/Delnar Skills Remake/amend_cyberware.xml
+./Chummer/customdata/Delnar Skills Remake/amend_gear.xml
+./Chummer/customdata/Delnar Skills Remake/amend_martialarts.xml
+./Chummer/customdata/Delnar Skills Remake/amend_mentors.xml
+./Chummer/customdata/Delnar Skills Remake/amend_metatypes.xml
+./Chummer/customdata/Delnar Skills Remake/amend_powers.xml
+./Chummer/customdata/Delnar Skills Remake/amend_priorities.xml
+./Chummer/customdata/Delnar Skills Remake/amend_qualities.xml
+./Chummer/customdata/Delnar Skills Remake/amend_skills.xml
+./Chummer/customdata/Delnar Skills Remake/amend_streams.xml
+./Chummer/customdata/Delnar Skills Remake/amend_traditions.xml
+./Chummer/customdata/Delnar Skills Remake/amend_weapons.xml
+./Chummer/customdata/Education Qualities Apply Karma Discount in Create Mode/amend_qualities.xml
+./Chummer/customdata/German Data Changes - Commanding Voice in Street Grimoire/amend_commandingvoice_powers.xml
+./Chummer/customdata/German Data Changes - Commlink App Prices/amend_commlinkappsprices_gear.xml
+./Chummer/customdata/German Data Changes - Electronic Firing Barrel to Internal Slot/amend_weapons.xml
+./Chummer/customdata/German Data Changes - Exotic Weapons Use Standard Skills/amend_weapons.xml
+./Chummer/customdata/German Data Changes - Garage Capacity/amend_garagecapacity_lifestyles.xml
+./Chummer/customdata/German Data Changes - Garage Capacity/custom_garagecapacity_lifestyles.xml
+./Chummer/customdata/German Data Changes - Growth Spell Category/amend_spells.xml
+./Chummer/customdata/German Data Changes - Gyro-Stablisation Vehicle Mod/override_gyro-stabilization_vehicles.xml
+./Chummer/customdata/German Data Changes - Heightened Concentration has Levels/amend_heightenedconcentration_powers.xml
+./Chummer/customdata/German Data Changes - Ingram Smartgun X/amend_smartgunxstock_weapons.xml
+./Chummer/customdata/German Data Changes - Poseidon RCC/amend_poseidonrcc_gear.xml
+./Chummer/customdata/German Data Changes - Practice, Practice, Practice/amend_qualities.xml
+./Chummer/customdata/German Data Changes - Quality Karma Costs/amend_costs_qualities.xml
+./Chummer/customdata/German Data Changes - Rigger 5 Mods - Catalina 2/amend_vehicles.xml
+./Chummer/customdata/German Data Changes - Seeker Shaft and Monotip Head Cost and Avail/amend_arrows_gear.xml
+./Chummer/customdata/Legal SIN and Licenses/amend_gear.xml
+./Chummer/customdata/Point Priority Chargen/amend_bioware.xml
+./Chummer/customdata/Point Priority Chargen/amend_echoes.xml
+./Chummer/customdata/Point Priority Chargen/amend_gameplayoptions.xml
+./Chummer/customdata/Point Priority Chargen/amend_mentors.xml
+./Chummer/customdata/Point Priority Chargen/amend_metatypes.xml
+./Chummer/customdata/Point Priority Chargen/amend_powers.xml
+./Chummer/customdata/Point Priority Chargen/amend_priorities.xml
+./Chummer/customdata/Point Priority Chargen/amend_qualities.xml
+./Chummer/customdata/Point Priority Chargen/amend_skills.xml
+./Chummer/customdata/Radar Sensor as Sensor Function/custom_radarsensorfunction_gear.xml
+./Chummer/customdata/Rainforest Carbine Missions Errata/amend_weapons.xml
+./Chummer/customdata/Ranger Sliver Has Standard Crossbow Ammo Capacity/amend_weapons.xml
+./Chummer/customdata/Runnerhub Rules/amend_armor.xml
+./Chummer/customdata/Runnerhub Rules/amend_bioware.xml
+./Chummer/customdata/Runnerhub Rules/amend_books.xml
+./Chummer/customdata/Runnerhub Rules/amend_complexforms.xml
+./Chummer/customdata/Runnerhub Rules/amend_cyberware.xml
+./Chummer/customdata/Runnerhub Rules/amend_gear.xml
+./Chummer/customdata/Runnerhub Rules/amend_martialarts.xml
+./Chummer/customdata/Runnerhub Rules/amend_mentors.xml
+./Chummer/customdata/Runnerhub Rules/amend_metamagic.xml
+./Chummer/customdata/Runnerhub Rules/amend_metatypes.xml
+./Chummer/customdata/Runnerhub Rules/amend_powers.xml
+./Chummer/customdata/Runnerhub Rules/amend_priorities.xml
+./Chummer/customdata/Runnerhub Rules/amend_qualities.xml
+./Chummer/customdata/Runnerhub Rules/amend_spells.xml
+./Chummer/customdata/Runnerhub Rules/amend_traditions.xml
+./Chummer/customdata/Runnerhub Rules/amend_vehicles.xml
+./Chummer/customdata/Runnerhub Rules/amend_weapons.xml
+./Chummer/customdata/ShadowNET Rules/amend_armor.xml
+./Chummer/customdata/ShadowNET Rules/amend_bioware.xml
+./Chummer/customdata/ShadowNET Rules/amend_books.xml
+./Chummer/customdata/ShadowNET Rules/amend_contacts.xml
+./Chummer/customdata/ShadowNET Rules/amend_cyberware.xml
+./Chummer/customdata/ShadowNET Rules/amend_gear.xml
+./Chummer/customdata/ShadowNET Rules/amend_licenses.xml
+./Chummer/customdata/ShadowNET Rules/amend_lifestyles.xml
+./Chummer/customdata/ShadowNET Rules/amend_martialarts.xml
+./Chummer/customdata/ShadowNET Rules/amend_mentors.xml
+./Chummer/customdata/ShadowNET Rules/amend_metamagic.xml
+./Chummer/customdata/ShadowNET Rules/amend_metatypes.xml
+./Chummer/customdata/ShadowNET Rules/amend_qualities.xml
+./Chummer/customdata/ShadowNET Rules/amend_ranges.xml
+./Chummer/customdata/ShadowNET Rules/amend_spells.xml
+./Chummer/customdata/ShadowNET Rules/amend_traditions.xml
+./Chummer/customdata/ShadowNET Rules/amend_vehicles.xml
+./Chummer/customdata/ShadowNET Rules/amend_weapons.xml
+./Chummer/customdata/Shadowrunner's Hang-outs' House Rule/amend_echoes.xml
+./Chummer/customdata/Shadowrunner's Hang-outs' House Rule/amend_gameplayoptions.xml
+./Chummer/customdata/Shadowrunner's Hang-outs' House Rule/amend_priorities.xml
+./Chummer/customdata/Shadowrunner's Hang-outs' House Rule/amend_qualities.xml
+./Chummer/customdata/SR Missions 1.4 Rules/amend_bioware.xml
+./Chummer/customdata/SR Missions 1.4 Rules/amend_books.xml
+./Chummer/customdata/SR Missions 1.4 Rules/amend_cyberware.xml
+./Chummer/customdata/SR Missions 1.4 Rules/amend_gear.xml
+./Chummer/customdata/SR Missions 1.4 Rules/amend_lifestyles.xml
+./Chummer/customdata/SR Missions 1.4 Rules/amend_mentors.xml
+./Chummer/customdata/SR Missions 1.4 Rules/amend_metamagic.xml
+./Chummer/customdata/SR Missions 1.4 Rules/amend_metatypes.xml
+./Chummer/customdata/SR Missions 1.4 Rules/amend_qualities.xml
+./Chummer/customdata/SR Missions 1.4 Rules/amend_spells.xml
+./Chummer/customdata/SR Missions 1.4 Rules/amend_traditions.xml
+./Chummer/customdata/SR Missions 1.4 Rules/amend_vehicles.xml
+./Chummer/customdata/SR Missions 1.4 Rules/amend_weapons.xml
+./Chummer/customdata/SR Missions Animal Prices/amend_gear.xml
+./Chummer/customdata/Trolls Have Natural Weapon Horns/amend_trollhorn_metatypes.xml
+./Chummer/customdata/Trolls Have Natural Weapon Horns/custom_trollhorn_qualities.xml
+./Chummer/data/actions.xml
+./Chummer/data/armor.xml
+./Chummer/data/bioware.xml
+./Chummer/data/books.xml
+./Chummer/data/complexforms.xml
+./Chummer/data/contacts.xml
+./Chummer/data/critterpowers.xml
+./Chummer/data/critters.xml
+./Chummer/data/cyberware.xml
+./Chummer/data/drugcomponents.xml
+./Chummer/data/echoes.xml
+./Chummer/data/gameplayoptions.xml
+./Chummer/data/gear.xml
+./Chummer/data/improvements.xml
+./Chummer/data/licenses.xml
+./Chummer/data/lifemodules.xml
+./Chummer/data/lifestyles.xml
+./Chummer/data/martialarts.xml
+./Chummer/data/mentors.xml
+./Chummer/data/metamagic.xml
+./Chummer/data/metatypes.xml
+./Chummer/data/options.xml
+./Chummer/data/packs.xml
+./Chummer/data/paragons.xml
+./Chummer/data/powers.xml
+./Chummer/data/priorities.xml
+./Chummer/data/programs.xml
+./Chummer/data/qualities.xml
+./Chummer/data/ranges.xml
+./Chummer/data/sheets.xml
+./Chummer/data/skills.xml
+./Chummer/data/spells.xml
+./Chummer/data/spiritpowers.xml
+./Chummer/data/streams.xml
+./Chummer/data/traditions.xml
+./Chummer/data/vehicles.xml
+./Chummer/data/vessels.xml
+./Chummer/data/weapons.xml
+./Chummer/lang/de-de.xml
+./Chummer/lang/de-de_data.xml
+./Chummer/lang/en-us.xml
+./Chummer/lang/fr-fr.xml
+./Chummer/lang/fr-fr_data.xml
+./Chummer/lang/ja-jp.xml
+./Chummer/lang/ja-jp_data.xml
+./Chummer/lang/pt-br.xml
+./Chummer/lang/pt-br_data.xml
+./Chummer/lang/zh-cn.xml
+./Chummer/lang/zh-cn_data.xml
+
+#Handled files
+
+#Ignored files

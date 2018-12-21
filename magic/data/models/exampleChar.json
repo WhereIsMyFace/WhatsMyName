@@ -1,0 +1,177 @@
+{
+    "Charakter" : {
+        "Infos" : {
+            "Spielername" : "Peter",
+            "Charaktername" : "Barry Blue",
+            "Nick" : "Runner"
+        },
+        "Typ" : {
+            "Rasse" : "Ork",
+            "Metavariante" : "Oger",
+            "Eigenschaft" : "Mundan"
+        },
+        "Aussehen" : {
+            "Größe" : 180,
+            "Alter" : 25,
+            "Hautfarbe" : "gebräunt",
+            "Harrfarbe" : "Bunt",
+            "Augenfarbe" : "Grün"
+        },
+        "Details" : {
+            "Verhalten" : "Meckert immer rum",
+            "Geschichte" : "Wurde als Baby ausgesetzt",
+            "Aussehen" : ["Narbe im Gesicht", "Voll Tätowiert"]
+        }
+    },
+    "Gaben" : {
+        "Vorteile" : [
+            {
+                "id" : 1,
+                "value" : "English"
+            },
+            {
+                "id" : 2,
+                "value" : null
+            }
+        ],
+        "Nachteile" : [
+            {
+                "id" : 1,
+                "value" : null
+            },
+            {
+                "id" : 3,
+                "value" : "Sonnenlicht"
+            }
+        ]
+    },
+    "Attribute" : {
+        "KON" : {
+            "Natürlich" : 1,
+            "Punkte" : 2,
+            "Karma" : 3,
+            "Max" : 4
+        },
+        "GES" : {
+            "Natürlich" : 1,
+            "Punkte" : 2,
+            "Karma" : 3,
+            "Max" : 4
+        },
+        "REA" : {
+            "Natürlich" : 1,
+            "Punkte" : 2,
+            "Karma" : 3,
+            "Max" : 4
+        },
+        "CHA" : {
+            "Natürlich" : 1,
+            "Punkte" : 2,
+            "Karma" : 3,
+            "Max" : 4
+        },
+        "INT" : {
+            "Natürlich" : 1,
+            "Punkte" : 2,
+            "Karma" : 3,
+            "Max" : 4
+        },
+        "LOG" : {
+            "Natürlich" : 1,
+            "Punkte" : 2,
+            "Karma" : 3,
+            "Max" : 4
+        },
+        "WIL" : {
+            "Natürlich" : 1,
+            "Punkte" : 2,
+            "Karma" : 3,
+            "Max" : 4
+        },
+        "EDG" : {
+            "Natürlich" : 1,
+            "Punkte" : 2,
+            "Karma" : 3,
+            "Max" : 4
+        },
+        "RES" : {
+            "Natürlich" : 1,
+            "Punkte" : 2,
+            "Karma" : 3,
+            "Max" : 4
+        },
+        "MAG" : {
+            "Natürlich" : 1,
+            "Punkte" : 2,
+            "Karma" : 3,
+            "Max" : 4
+        }
+    },
+    "Fertigkeiten" : [
+        {
+            "id": 10,
+            "Punkte" : 2,
+            "Karma" : 3
+        },
+        {
+            "id": 42,
+            "Punkte" : 1,
+            "Karma" : 5
+        }
+    ],
+    "Fertigkeitsgruppen" : [
+        {
+            "id": 1,
+            "Punkte" : 2,
+            "Karma" : 3,
+            "Broken" : false
+        },
+        {
+            "id": 3,
+            "Punkte" : 2,
+            "Karma" : 1,
+            "Broken" : true
+        }
+    ],
+    "Wissen" : [
+        {
+            "name": "Alkohol",
+            "Punkte" : 5,
+            "Karma" : 3,
+            "Type" : 3
+        },
+        {
+            "name": "Deutsch",
+            "Punkte" : 0,
+            "Karma" : 0,
+            "Type" : 6
+        },
+        {
+            "name": "Englisch",
+            "Punkte" : 4,
+            "Karma" : 2,
+            "Type" : 5 //Type-ID
+        }
+    ],
+    "Limits" : {
+        "Körperlich" : 6,
+        "Geistig" : 2,
+        "Sozial" : 3,
+        "Astral" : 3,
+        "Modifikatoren" : [1, 2, 3] //Liste von Mod-IDs
+    },
+    "Kampfkuenste" : [
+        {
+            "id" : 5,
+            "Techniken" : [1, 2, 3] //Liste von Techniken-IDs
+        }, 
+        {
+            "id" : 2,
+            "Techniken" : [4, 5, 6] //Liste von Techniken-IDs
+        }
+    ],
+    "Zauber" : {},
+    "Resonanz" : {},
+    "Ausrüstung" : {}
+
+}
