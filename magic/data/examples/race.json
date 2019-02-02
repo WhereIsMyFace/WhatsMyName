@@ -1,5 +1,6 @@
-{
-    "1" : {
+[
+    {
+        "id" : 1,
         "name" : "human",
         "translations" : {
             "german" : "Mensch"
@@ -51,12 +52,11 @@
                 "limit" : 11
             }
         },
-        "metaTypes" : [1.1],
         "parentType" : null,
         "talents": null
-        //?SpezialAttribut?
     },
-    "1.1" : {
+    {
+        "id" : 2,
         "name" : "Nartaki",
         "attributes" : {
             "KON" : {
@@ -105,11 +105,11 @@
                 "limit" : 11
             }
         },
-        "metaTypes" : [],
         "parentType" : 1,
         "talents": [3, 42]
     },
-    "2" : {
+    {
+        "id" : 3,
         "name" : "elf",
         "translations" : {
             "german" : "Elf"
@@ -161,11 +161,11 @@
                 "limit" : 11
             }
         },
-        "metaTypes" : [2.1, 2.2, 2.3, 2.4],
         "parentType" : null,
         "talents": [1]
     },
-    "2.1" : {
+    {
+        "id" : 4,
         "name" : "Dryade",
         "attributes" : {
             "KON" : {
@@ -212,10 +212,13 @@
                 "start" : 1,
                 "max" : 6,
                 "limit" : 10
+            },
+            "prioA" : {
+                "special" : 8,
+                "karma" : 0
             }
         },
-        "metaTypes" : [2.2, 2.3, 2.4],
         "parentType" : 2,
         "talents": [3, 42, 35]
     }
-}
+]

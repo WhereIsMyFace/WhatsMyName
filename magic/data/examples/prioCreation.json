@@ -1,0 +1,49 @@
+{
+    "Metatype": {
+        "PrioA": [
+            {
+                "id": 1,
+                "attribute": 9,
+                "karma": 0
+            },{
+                "id": 3,
+                "attribute": 8,
+                "karma": 0
+            },
+        ],
+        "PrioB": [
+            {
+                "id": 1,
+                "attribute": 7,
+                "karma": 0
+            },{
+                "id": 3,
+                "attribute": 6,
+                "karma": 0
+            },
+        ]
+    },
+    "Magic": {
+        "PrioA": {
+            "Mage": {...},
+            "Technoschlampe": {...},
+        }
+        "PrioB":
+        "PrioC":
+        "PrioD":
+    }
+    "Attribute": {
+        "PrioA": 24,
+        "PrioB": 20,
+        "PrioC": 16,
+        "PrioD": 14,
+        "PrioE": 12,
+    },
+    "Skills": {
+        "PrioA": [46, 10],
+        "PrioB": [36, 5],
+        "PrioC": [28, 2],
+        "PrioD": [22, 0],
+        "PrioE": [18, 0],
+    }
+}
