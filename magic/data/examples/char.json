@@ -1,5 +1,6 @@
 {
     "Charakter" : {
+        "ID" : 123456789,
         "Infos" : {
             "Spielername" : "Peter",
             "Charaktername" : "Barry Blue",
@@ -8,7 +9,33 @@
         "Typ" : {
             "Rasse" : "Ork",
             "Metavariante" : "Oger",
-            "Eigenschaft" : "Mundan"
+            "Eigenschaft" : {
+                "Mundan" : null,
+                "Aspektzauberer" : {
+                    "Aspekt" : 3,
+                    "Tradition" : 15
+                },
+                "Adept" : {
+                    "Fertigkeit" : 42,
+                    "Tradition" : 14
+                },
+                "Magieradept" : {
+                    "Magie1" : 3,
+                    "Magie2" : 12,
+                    "Tradition" : 13
+                },
+                "Technomancer" : {
+                    "Fertigkeit1" : 3,
+                    "Fertigkeit2" : 12,
+                    "Fertigkeit3" : 25,
+                    "MatrixClub" : 11 //Name nachgucken
+                },
+                "Zauberer" : {
+                    "Magie1" : 3,
+                    "Magie2" : 12,
+                    "Tradition" : 12
+                }
+            }
         },
         "Aussehen" : {
             "Größe" : 180,
@@ -44,6 +71,7 @@
                 "value" : "Sonnenlicht"
             }
         ]
+
     },
     "Attribute" : {
         "KON" : {
@@ -142,7 +170,7 @@
         },
         {
             "name": "Deutsch",
-            "Punkte" : 0,
+            "Punkte" : 0, //Null bedeutet Muttersprache
             "Karma" : 0,
             "Type" : 6
         },
@@ -170,8 +198,69 @@
             "Techniken" : [4, 5, 6] //Liste von Techniken-IDs
         }
     ],
-    "Zauber" : {},
-    "Resonanz" : {},
-    "Ausrüstung" : {}
+    "Zauber" : [1,2,3],
+    "Resonanz" : [4,5,6],
+    "Ausrüstung" : {
+        "Waffen" : [
+            {
+                "id" : 17,
+                "Stufe" : 1,
+                "Zubehör" : [
+                    {
+                        "id" : 17,
+                        "Stufe" : 1
+                    }
+                ]
+            }
+        ],
+        "Rüstung" : [
+            {
+                "id" : 17,
+                "Stufe" : 1,
+                "Zubehör" : [
+                    {
+                        "id" : 17,
+                        "Stufe" : 1
+                    }
+                ]
+            }
+        ],
+        "Fahrzeuge" : [
+            {
+                "id" : 17,
+                "Stufe" : 1,
+                "Zubehör" : [
+                    {
+                        "id" : 17,
+                        "Stufe" : 1
+                    }
+                ]
+            }
+        ],
+        "Drohnen" : [
+            {
+                "id" : 17,
+                "Stufe" : 1,
+                "Zubehör" : [
+                    {
+                        "id" : 17,
+                        "Stufe" : 1
+                    }
+                ]
+            }
+        ],
+        "Wekzeuge" : [
+            {
+                "id" : 17,
+                "Stufe" : 1,
+                "Zubehör" : [
+                    {
+                        "id" : 17,
+                        "Stufe" : 1
+                    }
+                ]
+            }
+        ]
+    }
 
 }

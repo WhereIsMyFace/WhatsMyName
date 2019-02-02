@@ -1,0 +1,221 @@
+{
+    "1" : {
+        "name" : "human",
+        "translations" : {
+            "german" : "Mensch"
+        },
+        "attributes" : {
+            "KON" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "GES" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "REA" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "STR" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "CHA" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "INT" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "LOG" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "WIL" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "EDG" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 11
+            }
+        },
+        "metaTypes" : [1.1],
+        "parentType" : null,
+        "talents": null
+        //?SpezialAttribut?
+    },
+    "1.1" : {
+        "name" : "Nartaki",
+        "attributes" : {
+            "KON" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "GES" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "REA" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "STR" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "CHA" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "INT" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "LOG" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "WIL" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "EDG" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 11
+            }
+        },
+        "metaTypes" : [],
+        "parentType" : 1,
+        "talents": [3, 42]
+    },
+    "2" : {
+        "name" : "elf",
+        "translations" : {
+            "german" : "Elf"
+        },
+        "attributes" : {
+            "KON" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "GES" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 11
+            },
+            "REA" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "STR" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "CHA" : {
+                "start" : 3,
+                "max" : 8,
+                "limit" : 12
+            },
+            "INT" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "LOG" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "WIL" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "EDG" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 11
+            }
+        },
+        "metaTypes" : [2.1, 2.2, 2.3, 2.4],
+        "parentType" : null,
+        "talents": [1]
+    },
+    "2.1" : {
+        "name" : "Dryade",
+        "attributes" : {
+            "KON" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "GES" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 11
+            },
+            "REA" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "STR" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "CHA" : {
+                "start" : 3,
+                "max" : 8,
+                "limit" : 12
+            },
+            "INT" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "LOG" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "WIL" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "EDG" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            }
+        },
+        "metaTypes" : [2.2, 2.3, 2.4],
+        "parentType" : 2,
+        "talents": [3, 42, 35]
+    }
+}
