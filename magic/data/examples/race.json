@@ -8,48 +8,39 @@
         "attributes" : {
             "KON" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "GES" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "REA" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "STR" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "CHA" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "INT" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "LOG" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "WIL" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "EDG" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 11
+                "max" : 7
             }
         },
         "parentType" : null,
@@ -61,48 +52,39 @@
         "attributes" : {
             "KON" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "GES" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "REA" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "STR" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "CHA" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "INT" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "LOG" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "WIL" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "EDG" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 11
+                "max" : 7
             }
         },
         "parentType" : 1,
@@ -117,48 +99,39 @@
         "attributes" : {
             "KON" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "GES" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 11
+                "max" : 7
             },
             "REA" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "STR" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "CHA" : {
                 "start" : 3,
-                "max" : 8,
-                "limit" : 12
+                "max" : 8
             },
             "INT" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "LOG" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "WIL" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "EDG" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             }
         },
         "parentType" : null,
@@ -173,48 +146,39 @@
         "attributes" : {
             "KON" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "GES" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 11
+                "max" : 7
             },
             "REA" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "STR" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "CHA" : {
                 "start" : 3,
-                "max" : 8,
-                "limit" : 12
+                "max" : 8
             },
             "INT" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "LOG" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "WIL" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "EDG" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             }
         },
         "parentType" : 3,
@@ -229,48 +193,39 @@
         "attributes" : {
             "KON" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "GES" : {
                 "start" : 3,
-                "max" : 8,
-                "limit" : 12
+                "max" : 8
             },
             "REA" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "STR" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "CHA" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 11
+                "max" : 7
             },
             "INT" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "LOG" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "WIL" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "EDG" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             }
         },
         "parentType" : 3,
@@ -285,48 +240,39 @@
         "attributes" : {
             "KON" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "GES" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 11
+                "max" : 7
             },
             "REA" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "STR" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "CHA" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 12
+                "max" : 7
             },
             "INT" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "LOG" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "WIL" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "EDG" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             }
         },
         "parentType" : 3,
@@ -341,48 +287,39 @@
         "attributes" : {
             "KON" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "GES" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 11
+                "max" : 7
             },
             "REA" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "STR" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "CHA" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "INT" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 11
+                "max" : 7
             },
             "LOG" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "WIL" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "EDG" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             }
         },
         "parentType" : 3,
@@ -397,48 +334,39 @@
         "attributes" : {
             "KON" : {
                 "start" : 4,
-                "max" : 9,
-                "limit" : 13
+                "max" : 9
             },
             "GES" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "REA" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "STR" : {
                 "start" : 3,
-                "max" : 8,
-                "limit" : 12
+                "max" : 8
             },
             "CHA" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "INT" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "LOG" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "WIL" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "EDG" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             }
         },
         "parentType" : null,
@@ -453,48 +381,39 @@
         "attributes" : {
             "KON" : {
                 "start" : 3,
-                "max" : 8,
-                "limit" : 12
+                "max" : 8
             },
             "GES" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "REA" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "STR" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 11
+                "max" : 7
             },
             "CHA" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "INT" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "LOG" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "WIL" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "EDG" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             }
         },
         "parentType" : 8,
@@ -509,48 +428,39 @@
         "attributes" : {
             "KON" : {
                 "start" : 4,
-                "max" : 9,
-                "limit" : 13
+                "max" : 9
             },
             "GES" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "REA" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "STR" : {
                 "start" : 3,
-                "max" : 8,
-                "limit" : 12
+                "max" : 8
             },
             "CHA" : {
                 "start" : 1,
-                "max" : 4,
-                "limit" : 8
+                "max" : 4
             },
             "INT" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "LOG" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "WIL" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 11
+                "max" : 7
             },
             "EDG" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             }
         },
         "parentType" : 8,
@@ -565,48 +475,39 @@
         "attributes" : {
             "KON" : {
                 "start" : 3,
-                "max" : 8,
-                "limit" : 12
+                "max" : 8
             },
             "GES" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 11
+                "max" : 7
             },
             "REA" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "STR" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 11
+                "max" : 7
             },
             "CHA" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 11
+                "max" : 7
             },
             "INT" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "LOG" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "WIL" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "EDG" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             }
         },
         "parentType" : 8,
@@ -621,48 +522,39 @@
         "attributes" : {
             "KON" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 11
+                "max" : 7
             },
             "GES" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "REA" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 11
+                "max" : 7
             },
             "STR" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 11
+                "max" : 7
             },
             "CHA" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "INT" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "LOG" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "WIL" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "EDG" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             }
         },
         "parentType" : 8,
@@ -677,48 +569,39 @@
         "attributes" : {
             "KON" : {
                 "start" : 5,
-                "max" : 10,
-                "limit" : 14
+                "max" : 10
             },
             "GES" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "REA" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "STR" : {
                 "start" : 5,
-                "max" : 10,
-                "limit" : 14
+                "max" : 10
             },
             "CHA" : {
                 "start" : 1,
-                "max" : 4,
-                "limit" : 8
+                "max" : 4
             },
             "INT" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "LOG" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "WIL" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "EDG" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             }
         },
         "parentType" : null,
@@ -733,48 +616,39 @@
         "attributes" : {
             "KON" : {
                 "start" : 5,
-                "max" : 10,
-                "limit" : 14
+                "max" : 10
             },
             "GES" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "REA" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "STR" : {
                 "start" : 6,
-                "max" : 11,
-                "limit" : 15
+                "max" : 11
             },
             "CHA" : {
                 "start" : 1,
-                "max" : 4,
-                "limit" : 8
+                "max" : 4
             },
             "INT" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "LOG" : {
                 "start" : 1,
-                "max" : 4,
-                "limit" : 8
+                "max" : 4
             },
             "WIL" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "EDG" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             }
         },
         "parentType" : 13,
@@ -789,48 +663,39 @@
         "attributes" : {
             "KON" : {
                 "start" : 4,
-                "max" : 9,
-                "limit" : 13
+                "max" : 9
             },
             "GES" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "REA" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "STR" : {
                 "start" : 5,
-                "max" : 10,
-                "limit" : 14
+                "max" : 10
             },
             "CHA" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "INT" : {
                 "start" : 1,
-                "max" : 4,
-                "limit" : 8
+                "max" : 4
             },
             "LOG" : {
                 "start" : 1,
-                "max" : 4,
-                "limit" : 8
+                "max" : 4
             },
             "WIL" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "EDG" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             }
         },
         "parentType" : 13,
@@ -845,48 +710,39 @@
         "attributes" : {
             "KON" : {
                 "start" : 5,
-                "max" : 10,
-                "limit" : 14
+                "max" : 10
             },
             "GES" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "REA" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "STR" : {
                 "start" : 5,
-                "max" : 10,
-                "limit" : 14
+                "max" : 10
             },
             "CHA" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "INT" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "LOG" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "WIL" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "EDG" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             }
         },
         "parentType" : 13,
@@ -901,48 +757,39 @@
         "attributes" : {
             "KON" : {
                 "start" : 6,
-                "max" : 11,
-                "limit" : 15
+                "max" : 11
             },
             "GES" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "REA" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "STR" : {
                 "start" : 5,
-                "max" : 10,
-                "limit" : 14
+                "max" : 10
             },
             "CHA" : {
                 "start" : 1,
-                "max" : 4,
-                "limit" : 8
+                "max" : 4
             },
             "INT" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "LOG" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "WIL" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "EDG" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             }
         },
         "parentType" : 13,
@@ -957,48 +804,39 @@
         "attributes" : {
             "KON" : {
                 "start" : 3,
-                "max" : 8,
-                "limit" : 12
+                "max" : 8
             },
             "GES" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "REA" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "STR" : {
                 "start" : 3,
-                "max" : 8,
-                "limit" : 12
+                "max" : 8
             },
             "CHA" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "INT" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "LOG" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "WIL" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 11
+                "max" : 7
             },
             "EDG" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             }
         },
         "parentType" : null,
@@ -1013,48 +851,39 @@
         "attributes" : {
             "KON" : {
                 "start" : 1,
-                "max" : 4,
-                "limit" : 8
+                "max" : 4
             },
             "GES" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 11
+                "max" : 7
             },
             "REA" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "STR" : {
                 "start" : 1,
-                "max" : 4,
-                "limit" : 8
+                "max" : 4
             },
             "CHA" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "INT" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "LOG" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 11
+                "max" : 7
             },
             "WIL" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 11
+                "max" : 7
             },
             "EDG" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             }
         },
         "parentType" : 18,
@@ -1069,48 +898,39 @@
         "attributes" : {
             "KON" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "GES" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 11
+                "max" : 7
             },
             "REA" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "STR" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 12
+                "max" : 7
             },
             "CHA" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "INT" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 11
+                "max" : 7
             },
             "LOG" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "WIL" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "EDG" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             }
         },
         "parentType" : 18,
@@ -1125,48 +945,39 @@
         "attributes" : {
             "KON" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 11
+                "max" : 7
             },
             "GES" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "REA" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "STR" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 11
+                "max" : 7
             },
             "CHA" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "INT" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "LOG" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "WIL" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 11
+                "max" : 7
             },
             "EDG" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             }
         },
         "parentType" : 18,
@@ -1181,48 +992,39 @@
         "attributes" : {
             "KON" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 11
+                "max" : 7
             },
             "GES" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 11
+                "max" : 7
             },
             "REA" : {
                 "start" : 1,
-                "max" : 5,
-                "limit" : 9
+                "max" : 5
             },
             "STR" : {
                 "start" : 2,
-                "max" : 7,
-                "limit" : 11
+                "max" : 7
             },
             "CHA" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "INT" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "LOG" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "WIL" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             },
             "EDG" : {
                 "start" : 1,
-                "max" : 6,
-                "limit" : 10
+                "max" : 6
             }
         },
         "parentType" : 18,
