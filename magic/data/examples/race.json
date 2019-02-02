@@ -110,7 +110,7 @@
     },
     {
         "id" : 3,
-        "name" : "elf",
+        "name" : "Elf",
         "translations" : {
             "german" : "Elf"
         },
@@ -156,9 +156,9 @@
                 "limit" : 10
             },
             "EDG" : {
-                "start" : 2,
-                "max" : 7,
-                "limit" : 11
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
             }
         },
         "parentType" : null,
@@ -167,6 +167,9 @@
     {
         "id" : 4,
         "name" : "Dryade",
+        "translations" : {
+            "german" : "Dryade"
+        },
         "attributes" : {
             "KON" : {
                 "start" : 1,
@@ -212,13 +215,1017 @@
                 "start" : 1,
                 "max" : 6,
                 "limit" : 10
-            },
-            "prioA" : {
-                "special" : 8,
-                "karma" : 0
             }
         },
-        "parentType" : 2,
+        "parentType" : 3,
+        "talents": [3, 42, 35]
+    },
+    {
+        "id" : 5,
+        "name" : "Nocturne",
+        "translations" : {
+            "german" : "Nocturne"
+        },
+        "attributes" : {
+            "KON" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "GES" : {
+                "start" : 3,
+                "max" : 8,
+                "limit" : 12
+            },
+            "REA" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "STR" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "CHA" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 11
+            },
+            "INT" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "LOG" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "WIL" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "EDG" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            }
+        },
+        "parentType" : 3,
+        "talents": [3, 42, 35]
+    },
+    {
+        "id" : 6,
+        "name" : "Xapiri Thepe",
+        "translations" : {
+            "german" : "Xapiri Thepe"
+        },
+        "attributes" : {
+            "KON" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "GES" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 11
+            },
+            "REA" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "STR" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "CHA" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 12
+            },
+            "INT" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "LOG" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "WIL" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "EDG" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            }
+        },
+        "parentType" : 3,
+        "talents": [3, 42, 35]
+    },
+    {
+        "id" : 7,
+        "name" : "Wakyambi",
+        "translations" : {
+            "german" : "Wakyambi"
+        },
+        "attributes" : {
+            "KON" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "GES" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 11
+            },
+            "REA" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "STR" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "CHA" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "INT" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 11
+            },
+            "LOG" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "WIL" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "EDG" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            }
+        },
+        "parentType" : 3,
+        "talents": [3, 42, 35]
+    },
+    {
+        "id" : 8,
+        "name" : "Orc",
+        "translations" : {
+            "german" : "Ork"
+        },
+        "attributes" : {
+            "KON" : {
+                "start" : 4,
+                "max" : 9,
+                "limit" : 13
+            },
+            "GES" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "REA" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "STR" : {
+                "start" : 3,
+                "max" : 8,
+                "limit" : 12
+            },
+            "CHA" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "INT" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "LOG" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "WIL" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "EDG" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            }
+        },
+        "parentType" : null,
+        "talents": [3, 42, 35]
+    },
+    {
+        "id" : 9,
+        "name" : "Hobgoblin",
+        "translations" : {
+            "german" : "Hobgoblin"
+        },
+        "attributes" : {
+            "KON" : {
+                "start" : 3,
+                "max" : 8,
+                "limit" : 12
+            },
+            "GES" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "REA" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "STR" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 11
+            },
+            "CHA" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "INT" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "LOG" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "WIL" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "EDG" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            }
+        },
+        "parentType" : 8,
+        "talents": [3, 42, 35]
+    },
+    {
+        "id" : 10,
+        "name" : "Oger",
+        "translations" : {
+            "german" : "Oger"
+        },
+        "attributes" : {
+            "KON" : {
+                "start" : 4,
+                "max" : 9,
+                "limit" : 13
+            },
+            "GES" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "REA" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "STR" : {
+                "start" : 3,
+                "max" : 8,
+                "limit" : 12
+            },
+            "CHA" : {
+                "start" : 1,
+                "max" : 4,
+                "limit" : 8
+            },
+            "INT" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "LOG" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "WIL" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 11
+            },
+            "EDG" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            }
+        },
+        "parentType" : 8,
+        "talents": [3, 42, 35]
+    },
+    {
+        "id" : 11,
+        "name" : "Oni",
+        "translations" : {
+            "german" : "Oni"
+        },
+        "attributes" : {
+            "KON" : {
+                "start" : 3,
+                "max" : 8,
+                "limit" : 12
+            },
+            "GES" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 11
+            },
+            "REA" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "STR" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 11
+            },
+            "CHA" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 11
+            },
+            "INT" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "LOG" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "WIL" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "EDG" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            }
+        },
+        "parentType" : 8,
+        "talents": [3, 42, 35]
+    },
+    {
+        "id" : 12,
+        "name" : "Satyr",
+        "translations" : {
+            "german" : "Satyr"
+        },
+        "attributes" : {
+            "KON" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 11
+            },
+            "GES" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "REA" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 11
+            },
+            "STR" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 11
+            },
+            "CHA" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "INT" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "LOG" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "WIL" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "EDG" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            }
+        },
+        "parentType" : 8,
+        "talents": [3, 42, 35]
+    },
+    {
+        "id" : 13,
+        "name" : "Troll",
+        "translations" : {
+            "german" : "Troll"
+        },
+        "attributes" : {
+            "KON" : {
+                "start" : 5,
+                "max" : 10,
+                "limit" : 14
+            },
+            "GES" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "REA" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "STR" : {
+                "start" : 5,
+                "max" : 10,
+                "limit" : 14
+            },
+            "CHA" : {
+                "start" : 1,
+                "max" : 4,
+                "limit" : 8
+            },
+            "INT" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "LOG" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "WIL" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "EDG" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            }
+        },
+        "parentType" : null,
+        "talents": [3, 42, 35]
+    },
+    {
+        "id" : 14,
+        "name" : "Zyklop",
+        "translations" : {
+            "german" : "Zyklop"
+        },
+        "attributes" : {
+            "KON" : {
+                "start" : 5,
+                "max" : 10,
+                "limit" : 14
+            },
+            "GES" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "REA" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "STR" : {
+                "start" : 6,
+                "max" : 11,
+                "limit" : 15
+            },
+            "CHA" : {
+                "start" : 1,
+                "max" : 4,
+                "limit" : 8
+            },
+            "INT" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "LOG" : {
+                "start" : 1,
+                "max" : 4,
+                "limit" : 8
+            },
+            "WIL" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "EDG" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            }
+        },
+        "parentType" : 13,
+        "talents": [3, 42, 35]
+    },
+    {
+        "id" : 15,
+        "name" : "Fomri",
+        "translations" : {
+            "german" : "Fomori"
+        },
+        "attributes" : {
+            "KON" : {
+                "start" : 4,
+                "max" : 9,
+                "limit" : 13
+            },
+            "GES" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "REA" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "STR" : {
+                "start" : 5,
+                "max" : 10,
+                "limit" : 14
+            },
+            "CHA" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "INT" : {
+                "start" : 1,
+                "max" : 4,
+                "limit" : 8
+            },
+            "LOG" : {
+                "start" : 1,
+                "max" : 4,
+                "limit" : 8
+            },
+            "WIL" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "EDG" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            }
+        },
+        "parentType" : 13,
+        "talents": [3, 42, 35]
+    },
+    {
+        "id" : 16,
+        "name" : "Riese",
+        "translations" : {
+            "german" : "Riese"
+        },
+        "attributes" : {
+            "KON" : {
+                "start" : 5,
+                "max" : 10,
+                "limit" : 14
+            },
+            "GES" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "REA" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "STR" : {
+                "start" : 5,
+                "max" : 10,
+                "limit" : 14
+            },
+            "CHA" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "INT" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "LOG" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "WIL" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "EDG" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            }
+        },
+        "parentType" : 13,
+        "talents": [3, 42, 35]
+    },
+    {
+        "id" : 17,
+        "name" : "Minotaurus",
+        "translations" : {
+            "german" : "Minotaurus"
+        },
+        "attributes" : {
+            "KON" : {
+                "start" : 6,
+                "max" : 11,
+                "limit" : 15
+            },
+            "GES" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "REA" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "STR" : {
+                "start" : 5,
+                "max" : 10,
+                "limit" : 14
+            },
+            "CHA" : {
+                "start" : 1,
+                "max" : 4,
+                "limit" : 8
+            },
+            "INT" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "LOG" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "WIL" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "EDG" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            }
+        },
+        "parentType" : 13,
+        "talents": [3, 42, 35]
+    },
+    {
+        "id" : 18,
+        "name" : "Dwarf",
+        "translations" : {
+            "german" : "Zwerg"
+        },
+        "attributes" : {
+            "KON" : {
+                "start" : 3,
+                "max" : 8,
+                "limit" : 12
+            },
+            "GES" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "REA" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "STR" : {
+                "start" : 3,
+                "max" : 8,
+                "limit" : 12
+            },
+            "CHA" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "INT" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "LOG" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "WIL" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 11
+            },
+            "EDG" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            }
+        },
+        "parentType" : null,
+        "talents": [3, 42, 35]
+    },
+    {
+        "id" : 19,
+        "name" : "Gnom",
+        "translations" : {
+            "german" : "Gnom"
+        },
+        "attributes" : {
+            "KON" : {
+                "start" : 1,
+                "max" : 4,
+                "limit" : 8
+            },
+            "GES" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 11
+            },
+            "REA" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "STR" : {
+                "start" : 1,
+                "max" : 4,
+                "limit" : 8
+            },
+            "CHA" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "INT" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "LOG" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 11
+            },
+            "WIL" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 11
+            },
+            "EDG" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            }
+        },
+        "parentType" : 18,
+        "talents": [3, 42, 35]
+    },
+    {
+        "id" : 20,
+        "name" : "Hanuman",
+        "translations" : {
+            "german" : "Hanuman"
+        },
+        "attributes" : {
+            "KON" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "GES" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 11
+            },
+            "REA" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "STR" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 12
+            },
+            "CHA" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "INT" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 11
+            },
+            "LOG" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "WIL" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "EDG" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            }
+        },
+        "parentType" : 18,
+        "talents": [3, 42, 35]
+    },
+    {
+        "id" : 21,
+        "name" : "Koborokuru",
+        "translations" : {
+            "german" : "Koborokuru"
+        },
+        "attributes" : {
+            "KON" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 11
+            },
+            "GES" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "REA" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "STR" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 11
+            },
+            "CHA" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "INT" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "LOG" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "WIL" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 11
+            },
+            "EDG" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            }
+        },
+        "parentType" : 18,
+        "talents": [3, 42, 35]
+    },
+    {
+        "id" : 22,
+        "name" : "Menehune",
+        "translations" : {
+            "german" : "Menehune"
+        },
+        "attributes" : {
+            "KON" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 11
+            },
+            "GES" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 11
+            },
+            "REA" : {
+                "start" : 1,
+                "max" : 5,
+                "limit" : 9
+            },
+            "STR" : {
+                "start" : 2,
+                "max" : 7,
+                "limit" : 11
+            },
+            "CHA" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "INT" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "LOG" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "WIL" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            },
+            "EDG" : {
+                "start" : 1,
+                "max" : 6,
+                "limit" : 10
+            }
+        },
+        "parentType" : 18,
         "talents": [3, 42, 35]
     }
 ]
