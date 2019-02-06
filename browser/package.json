@@ -1,0 +1,14 @@
+{
+  "name": "whats_my_name",
+  "version": "0.0.1",
+  "description": "We will hav a lot of Fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"tests ?\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.2"
+  }
+}
